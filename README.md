@@ -1,6 +1,6 @@
 # 🎓 Student Management API — Spring Boot
 
-Une application REST complète de gestion des étudiants, développée avec Spring Boot, JPA/Hibernate et MySQL.
+Une application REST  de gestion des étudiants, développée avec Spring Boot, JPA/Hibernate et MySQL.
 
 ## 🛠️ Technologies utilisées
 
